@@ -1,4 +1,4 @@
-PMP: 软件项目管理平台
+RPMP: 软件项目管理平台
 
 (software) project management platform. (R stands for ruby/rails)
 
